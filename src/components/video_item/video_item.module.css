@@ -1,19 +1,13 @@
 .container {
-    
     padding: 0.2em;
-
 }
 
 .container.grid {
-    
     width: 50%;
-
 }
 
 .container.list {
-    
     width: 100%;
-
 }
 
 .video {
@@ -22,7 +16,7 @@
     display:  flex;
     align-items: center;
     border:  1px solid lightgray;
-    box-shadow: 3px 3px 5px 0px rgba(191,191,191,0.5);
+    box-shadow: 3px 3px 5px 0px rgba(191,191,191,0.53);
     cursor: pointer;
     transition: transform 250ms ease-in;
 }
@@ -31,7 +25,7 @@
     transform: scale(1.02);
 }
 
-.thumbnaul {
+.thumbnail {
     width: 40%;
     height: 100%;
 }

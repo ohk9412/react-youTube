@@ -1,7 +1,7 @@
 import styles from './search_header.module.css'
-import React, { useRef } from 'react';
+import React, { memo, useRef } from 'react';
 
-const SearchHeader = ({onSearch}) => {
+const SearchHeader = memo(({onSearch}) => {
     const inputRef = useRef();
     const handleSearch = () => {
         const value = inputRef.current.value;
@@ -32,7 +32,8 @@ const SearchHeader = ({onSearch}) => {
                 <img className={styles.buttonImg} src='/images/search.png' alt='search' />
             </button>
         </header>
-    )
+    );
 }
+);
 
 export default SearchHeader;
