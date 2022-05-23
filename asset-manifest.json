@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-youTube/static/css/main.adb3ff23.chunk.css",
+    "main.js": "/react-youTube/static/js/main.b5d36e54.chunk.js",
+    "main.js.map": "/react-youTube/static/js/main.b5d36e54.chunk.js.map",
+    "runtime-main.js": "/react-youTube/static/js/runtime-main.7af56ce3.js",
+    "runtime-main.js.map": "/react-youTube/static/js/runtime-main.7af56ce3.js.map",
+    "static/js/2.f73c4efa.chunk.js": "/react-youTube/static/js/2.f73c4efa.chunk.js",
+    "static/js/2.f73c4efa.chunk.js.map": "/react-youTube/static/js/2.f73c4efa.chunk.js.map",
+    "index.html": "/react-youTube/index.html",
+    "static/css/main.adb3ff23.chunk.css.map": "/react-youTube/static/css/main.adb3ff23.chunk.css.map",
+    "static/js/2.f73c4efa.chunk.js.LICENSE.txt": "/react-youTube/static/js/2.f73c4efa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7af56ce3.js",
+    "static/js/2.f73c4efa.chunk.js",
+    "static/css/main.adb3ff23.chunk.css",
+    "static/js/main.b5d36e54.chunk.js"
+  ]
+}
